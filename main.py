@@ -8,6 +8,8 @@ def odejmij():
 def podziel():
     return 1/1
 
+def mnoz():
+    return 1*1
 
 def main():
     print("Hello")
